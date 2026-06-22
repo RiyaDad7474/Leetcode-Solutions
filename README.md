@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0001-two-sum) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
