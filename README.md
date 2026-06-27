@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Database
 |  |
 | ------- |
@@ -30,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
