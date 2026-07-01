@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
