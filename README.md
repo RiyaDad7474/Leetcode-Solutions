@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0507-perfect-number](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0507-perfect-number) |
 | [1025-divisor-game](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/1025-divisor-game) |
 | [1688-count-of-matches-in-tournament](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
