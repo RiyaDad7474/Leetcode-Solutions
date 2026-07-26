@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1025-divisor-game](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Bit Manipulation
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
