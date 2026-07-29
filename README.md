@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Design
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0100-same-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/RiyaDad7474/Leetcode-Solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
